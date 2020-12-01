@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/engapp/precache-manifest.e7cb8f13ba42f069934b772ceef86e32.js"
+  "/engapp/precache-manifest.8d55ab7dc08e72ee0a090abd6be89a36.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "owlways"});
