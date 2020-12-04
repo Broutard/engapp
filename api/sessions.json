@@ -40,11 +40,11 @@
       {
         "id": 4,
         "type": "translate",
-        "question": "Good morning",
-        "response": "Bonne matinée",
+        "question": "Bonne matinée",
+        "response": "Good morning",
         "options": {
-          "from": "en",
-          "to": "fr"
+          "from": "fr",
+          "to": "en"
         }
       },{
         "id": 9,
