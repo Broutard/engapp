@@ -35,15 +35,24 @@
   },
   {
     "id": 2,
-    "title": "Verbes irréguliers n°2.",
+    "title": "Traduction + Question + QCM",
     "exercices": [
       {
         "id": 4,
+        "type": "translate",
+        "question": "Good morning",
+        "response": "Bonne matinée",
+        "options": {
+          "from": "en",
+          "to": "fr"
+        }
+      },{
+        "id": 5,
         "type": "question",
         "question": "Participe passé du verbe mordre",
         "response" : "bitten"
       },{
-        "id": 5,
+        "id": 6,
         "type": "qcm",
         "question": "obtenir",
         "answers": [
@@ -52,7 +61,7 @@
           { "label": "get / got / gotten", "correct": true }
         ]
       },{
-        "id": 6,
+        "id": 7,
         "type": "qcm",
         "question": "avoir",
         "answers": [
@@ -61,7 +70,7 @@
           { "label": "have / has / haven" }
         ]
       },{
-        "id": 7,
+        "id": 8,
         "type": "qcm",
         "question": "couper",
         "answers": [
