@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/engapp/api/sessions.json"
   },
   {
-    "revision": "9d9bc4ce8ee04b318a11",
-    "url": "/engapp/css/app.90557ae1.css"
+    "revision": "b6f0b9ffa9ff760e19eb",
+    "url": "/engapp/css/app.e3bbbfe1.css"
   },
   {
     "revision": "9b45f47d82ec9ba96f3d",
     "url": "/engapp/css/chunk-vendors.e7fb03af.css"
   },
   {
-    "revision": "0721dfe5e9ba6196a1c6",
+    "revision": "cb64ec6fd4a032952f2e",
     "url": "/engapp/css/seance.9cf14d0e.css"
   },
   {
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "84a37de85c17f186652a179b1145392f",
     "url": "/engapp/fonts/MaterialIcons-Regular.84a37de8.woff"
+  },
+  {
+    "revision": "159cb67fc3bc762a8c3232f0a0c6728e",
+    "url": "/engapp/fonts/VarelaRound-Regular.159cb67f.ttf"
   },
   {
     "revision": "3d1f8fa2f06249540889a7bbe69cf5bb",
@@ -60,23 +64,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/engapp/img/logo2.png"
   },
   {
-    "revision": "5c5dc229fe04acd47f9641648a588f57",
+    "revision": "6afc944104817aec0d39be66a44be0c0",
     "url": "/engapp/index.html"
   },
   {
-    "revision": "9d9bc4ce8ee04b318a11",
-    "url": "/engapp/js/app.0c50cf68.js"
+    "revision": "b6f0b9ffa9ff760e19eb",
+    "url": "/engapp/js/app.fb1813e2.js"
   },
   {
     "revision": "9b45f47d82ec9ba96f3d",
     "url": "/engapp/js/chunk-vendors.fa2c90f6.js"
   },
   {
-    "revision": "0721dfe5e9ba6196a1c6",
-    "url": "/engapp/js/seance.bf709318.js"
+    "revision": "cb64ec6fd4a032952f2e",
+    "url": "/engapp/js/seance.cb60b0a1.js"
   },
   {
-    "revision": "476c687b564a2c12403dcdb4c7cc3880",
+    "revision": "2feb1a5675892c246ce227b1eead6d82",
     "url": "/engapp/manifest.json"
   },
   {
