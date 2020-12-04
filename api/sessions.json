@@ -47,6 +47,15 @@
           "to": "fr"
         }
       },{
+        "id": 9,
+        "type": "translate",
+        "question": "Boys and girls eat in the kitchen",
+        "response": "Les garçons et les filles mangent dans la cuisine",
+        "options": {
+          "from": "en",
+          "to": "fr"
+        }
+      },{
         "id": 5,
         "type": "question",
         "question": "Participe passé du verbe mordre",
