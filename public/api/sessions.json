@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Verbes irréguliers / exercices simples test blabla super longgggggggggggggggggg",
+    "exercices": [
+      {
+        "id": 1,
+        "type": "qcm",
+        "question": "devenir",
+        "answers": [
+          { "label": "become / became / become", "correct": true },
+          { "label": "become / become / become" },
+          { "label": "become / became / became" }
+        ]
+      },{
+        "id": 2,
+        "type": "qcm",
+        "question": "se réveiller",
+        "answers": [
+          { "label": "awake / awoke / awoken", "correct": true },
+          { "label": "awoke / awoke / awoken" },
+          { "label": "awake / awake / awaken" }
+        ]
+      },{
+        "id": 3,
+        "type": "qcm",
+        "question": "aller",
+        "answers": [
+          { "label": "go / go / go" },
+          { "label": "go / gone / gone" },
+          { "label": "go / went / gone", "correct": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Traduction + Question + QCM",
+    "exercices": [
+      {
+        "id": 4,
+        "type": "translate",
+        "question": "Bonne matinée",
+        "response": "Good morning",
+        "options": {
+          "from": "fr",
+          "to": "en"
+        }
+      },{
+        "id": 9,
+        "type": "translate",
+        "question": "Boys and girls eat in the kitchen",
+        "response": "Les garçons et les filles mangent dans la cuisine",
+        "options": {
+          "from": "en",
+          "to": "fr"
+        }
+      },{
+        "id": 5,
+        "type": "question",
+        "question": "Participe passé du verbe mordre",
+        "response" : "bitten"
+      },{
+        "id": 6,
+        "type": "qcm",
+        "question": "obtenir",
+        "answers": [
+          { "label": "get / get / get" },
+          { "label": "get / got / goten" },
+          { "label": "get / got / gotten", "correct": true }
+        ]
+      },{
+        "id": 7,
+        "type": "qcm",
+        "question": "avoir",
+        "answers": [
+          { "label": "have / had / had", "correct": true },
+          { "label": "have / has / had" },
+          { "label": "have / has / haven" }
+        ]
+      },{
+        "id": 8,
+        "type": "qcm",
+        "question": "couper",
+        "answers": [
+          { "label": "cut / cut / cuten" },
+          { "label": "cut / cot / cot" },
+          { "label": "cut / cut / cut", "correct": true }
+        ]
+      }
+    ]
+  }
+]

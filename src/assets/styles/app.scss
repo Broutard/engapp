@@ -1,0 +1,17 @@
+// @import url(../fonts/VarelaRound-Regular.ttf);
+
+@font-face {
+  font-family: "VarelaRound";
+  src: local("VarelaRound"), url(../fonts/VarelaRound-Regular.ttf) format("truetype");
+}
+
+$body-font-family: 'VarelaRound';
+
+.v-application {
+  font-family: $body-font-family, sans-serif !important;
+}
+.v-main {
+  // max-width: 1140px;
+  // min-width: 900px;
+  // margin: 0 auto;
+}
