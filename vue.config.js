@@ -15,7 +15,7 @@ module.exports = {
     appleMobileWebAppCapable: "yes",
     appleMobileWebAppStatusBarStyle: "#1976d2",
     manifestOptions: {
-      start_url: '/?utm_source=homescreen',
+      // start_url: '/?utm_source=homescreen',
       background_color: "#1976d2"
     }
   }
